@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+#productTable_wrapper {
+    margin-top: 20px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#productTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#productTable th, #productTable td {
+    padding: 12px;
+    text-align: center;  /* This ensures content is centered */
+    border: 1px solid #ddd;
+}
+
+#productTable th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+#productTable tr:hover {
+    background-color: #f1f1f1;
+}
