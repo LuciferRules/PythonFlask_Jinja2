@@ -1,2 +1,2 @@
-FLASK_APP=app
+FLASK_APP=app-swagger
 FLASK_DEBUG=1
