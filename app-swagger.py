@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask
 from flask_restx import Api, Resource, fields
 
 app = Flask(__name__)
